@@ -1,0 +1,13 @@
+C:\code\lozanosoft\C#\tipos_de_variables\bin\Debug\netcoreapp3.1\tipos_de_variables.exe
+C:\code\lozanosoft\C#\tipos_de_variables\bin\Debug\netcoreapp3.1\tipos_de_variables.deps.json
+C:\code\lozanosoft\C#\tipos_de_variables\bin\Debug\netcoreapp3.1\tipos_de_variables.runtimeconfig.json
+C:\code\lozanosoft\C#\tipos_de_variables\bin\Debug\netcoreapp3.1\tipos_de_variables.runtimeconfig.dev.json
+C:\code\lozanosoft\C#\tipos_de_variables\bin\Debug\netcoreapp3.1\tipos_de_variables.dll
+C:\code\lozanosoft\C#\tipos_de_variables\bin\Debug\netcoreapp3.1\tipos_de_variables.pdb
+C:\code\lozanosoft\C#\tipos_de_variables\obj\Debug\netcoreapp3.1\tipos_de_variables.csprojAssemblyReference.cache
+C:\code\lozanosoft\C#\tipos_de_variables\obj\Debug\netcoreapp3.1\tipos_de_variables.AssemblyInfoInputs.cache
+C:\code\lozanosoft\C#\tipos_de_variables\obj\Debug\netcoreapp3.1\tipos_de_variables.AssemblyInfo.cs
+C:\code\lozanosoft\C#\tipos_de_variables\obj\Debug\netcoreapp3.1\tipos_de_variables.csproj.CoreCompileInputs.cache
+C:\code\lozanosoft\C#\tipos_de_variables\obj\Debug\netcoreapp3.1\tipos_de_variables.dll
+C:\code\lozanosoft\C#\tipos_de_variables\obj\Debug\netcoreapp3.1\tipos_de_variables.pdb
+C:\code\lozanosoft\C#\tipos_de_variables\obj\Debug\netcoreapp3.1\tipos_de_variables.genruntimeconfig.cache

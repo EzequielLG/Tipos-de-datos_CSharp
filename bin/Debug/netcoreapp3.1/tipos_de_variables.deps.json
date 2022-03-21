@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "tipos_de_variables/1.0.0": {
+        "runtime": {
+          "tipos_de_variables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tipos_de_variables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
